@@ -17,6 +17,9 @@
     - Kotlin (learning)
 
 ### Github statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=zfih&show_icons=true&theme=dracula)
-
-![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zfih&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zfih&show_icons=true&theme=dracula" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfih&theme=dracula" alt="top lang"/>
+</p>
