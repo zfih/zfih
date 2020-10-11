@@ -1,18 +1,22 @@
-### Hi there 🙃
+### Hi there 🙃 Welcome to my profile
 
-TODO: Fill me in
+### About me
+ - Male, age 24
+ - Pronouns: He/Him
+ - Bachelor in Software Development from IT University of Copenhagen
+ - Masters in Games (Tech) from IT University of Copenhagen
+ - Interests:
+    - Rendering
+    - Game Engines
+    - Low level programming
+    - Compilers
+ - Languages:
+    - C/C++
+    - C#
+    - Java
+    - Kotlin (learning)
 
-<!--
-**zfih/zfih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github statistics
+![github stats](https://github-readme-stats.vercel.app/api?username=zfih&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zfih&theme=dracula)
