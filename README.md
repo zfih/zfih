@@ -24,6 +24,8 @@ Visitor number:
     
 *Note: Most of my repos are private as they are study related and not meant to be public*
 
+### Misc Github Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zfih&show_icons=true&theme=dracula" alt="stats"/>
 </p>
