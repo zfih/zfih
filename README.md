@@ -22,7 +22,7 @@ Visitor number:
     - Java
     - Kotlin (learning)
     
-
+*Note: Most of my repos are private as they are study related and not meant to be public*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zfih&show_icons=true&theme=dracula" alt="stats"/>
