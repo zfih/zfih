@@ -20,6 +20,7 @@ Visitor number:
     - C/C++
     - C#
     - Java
+    - Python
     - Kotlin (learning)
     
 ### Contact
