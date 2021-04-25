@@ -1,4 +1,4 @@
-## Hi there 🙃 I'm Zfih / Oliver
+## Hi there 🙃 I'm zfih / Oliver
 
 Visitor number:
 
