@@ -5,7 +5,7 @@ Visitor number:
 ![](https://komarev.com/ghpvc/?username=zfih&color=lightgrey)
 
 ### About me
- - Male, age 24
+ - Male, age 25
  - Speaks: English/Danish
  - Pronouns: He/Him
  - Bachelor in Software Development from IT University of Copenhagen
