@@ -26,7 +26,7 @@ Visitor number:
 ### Contact
 Personal email: oliver.leth.kristensen@gmail.com
 
-Github/gaming email: zfihgaming@gmail.com
+coding/gaming email: zfihgaming@gmail.com
 
 *Note: Most of my repos are private as they are study related and not meant to be public*
 
