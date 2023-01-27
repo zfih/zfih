@@ -16,12 +16,14 @@ Visitor number:
     - Low level programming
     - Compilers
     - Modding and Clients (Minecraft)
- - Languages:
-    - C/C++
+ - Languages (I use often):
+    - C++
+    - Rust
+    - Python
+ - Languages (I know but use rarely)
+    - C
     - C#
     - Java
-    - Python
-    - Kotlin (learning)
     
 ### Contact
 Personal email: oliver.leth.kristensen@gmail.com
